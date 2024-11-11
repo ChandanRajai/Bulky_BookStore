@@ -1,6 +1,6 @@
-# 📚 Bulky Book: ASP.NET Core Advanced E-commerce Website
+# 📚 Bulky_BookStore: ASP.NET Core Advanced E-commerce Website
 
-**Welcome to Bulky BookStore** An ASP.NET Core-powered e-commerce platform designed to demonstrate advanced concepts and skills for building professional applications. This project is filled with comprehensive, no-filler explanations on creating an interactive online store from the ground up.
+**Welcome to Bulky_BookStore** An ASP.NET Core-powered e-commerce platform designed to demonstrate advanced concepts and skills for building professional applications. This project is filled with comprehensive, no-filler explanations on creating an interactive online store from the ground up.
 
 ### 🔥 Key Features
 
@@ -57,7 +57,7 @@
 
 📚 **Additional Resources**
 
-    For more details and advanced configuration options, please refer to the [ASP.NET Core Documentation](https://learn.microsoft.com/en-gb/aspnet/core/?view=aspnetcore-8.0)
+    For more details and advanced configuration options, please refer to the [ASP.NET Core Documentation](https://www.learn.microsoft.com/en-gb/aspnet/core/?view=aspnetcore-8.0)
 
 💬 **Feedback & Contribution**
 
