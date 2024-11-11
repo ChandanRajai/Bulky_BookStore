@@ -33,7 +33,7 @@
 
 2. **Install Dependencies Ensure you have .NET Core SDK installed.**
   
-    cd BulkyBook
+    cd Bulky_BookStore
     dotnet restore
 
 3. **Apply Migrations and Seed Data**
