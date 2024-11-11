@@ -29,23 +29,19 @@
 
 1. **Clone the Repository**
 
-   bash
    git clone https://github.com/ChandanRajai/Bulky_BookStore.git 
 
 2. **Install Dependencies Ensure you have .NET Core SDK installed.**
-
-    bash    
+  
     cd BulkyBook
     dotnet restore
 
 3. **Apply Migrations and Seed Data**
 
-    bash
     dotnet ef database update
     
 4. **Run the Application**
 
-    bash
     dotnet run
 
 🎓 **Prerequisites**
